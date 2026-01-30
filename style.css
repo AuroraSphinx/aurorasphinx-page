@@ -1,0 +1,34 @@
+.feed {
+  border: 1px black solid;
+  width: 300px;
+}
+.feed h2 {
+  border: 1px black solid;
+  width: 220px;
+  margin: 5px;
+  
+}
+header ul li {
+  display: inline;
+  margin-right: 20px; 
+}
+header {
+  align-items: center;
+  display: flex;
+    border: 1px solid black;
+}
+header .logo {
+  flex-grow: 1;
+}
+footer {
+  border: 1px solid black;
+  margin-top: 20px;
+}
+footer p {
+  text-align: center;
+  font-size: 14px;
+}
+footer .brazil-icon {
+  display: block;
+  margin: 0 auto;
+}
